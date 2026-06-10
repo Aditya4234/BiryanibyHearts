@@ -10,6 +10,9 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  turbopack: {
+    root: "/home/aditya-gupta/Fullstack website/Briyani/frontend",
+  },
 };
 
 export default nextConfig;
